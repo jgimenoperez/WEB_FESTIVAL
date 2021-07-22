@@ -12,3 +12,6 @@ Web crada utilziando.
 Descargar el proyecto.  
 Instalar las dependencias con `npm install`  
 Ejecutar `gulp` para generar ficheros   
+
+Web alojada en GITHUB PAGES
+https://jgimenoperez.github.io/WEB_FESTIVAL/
